@@ -8,4 +8,4 @@ return(
 )
 
 }
-export default SwipeButtons
+export default SwipeButtons;
